@@ -1,3 +1,3 @@
 export default ({ env }) => ({
-    i18n: true
+    // i18n: true
   })
